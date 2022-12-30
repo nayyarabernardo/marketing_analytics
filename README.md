@@ -10,3 +10,4 @@ Você é um analista de dados designado pelo Gerente de Marketing para analisar 
 ##Em relação aos dados:
 Os dados usados são um conjunto de dados público que obtive do Kaggle. Este conjunto de dados em si foi formado por uma empresa iniciante no Brasil para testar candidatos a analistas de dados, portanto, estou bastante interessado em analisar esses dados
 
+![alt text](https://github.com/nayyarabernardo/marketing_analytics/blob/main/Untitled%20(3).jpg)
