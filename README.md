@@ -36,7 +36,7 @@ Este projeto tem como objetivo fornecer um exemplo de como realizar o processo d
 
 ## Contribuição
 
-Este projeto é aberto a contribuições. Se você deseja melhorar ou adicionar recursos, sinta-se à vontade para criar uma solicitação pull ou entrar em contato.
+Este projeto é aberto a contribuições. Se você deseja melhorar ou adicionar recursos, sinta-se à vontade para criar uma solicitação pull ou entrar em [contato](https://www.linkedin.com/in/nayyarabernardo).
 
 ## Links
 
