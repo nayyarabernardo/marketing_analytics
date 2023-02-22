@@ -40,7 +40,7 @@ Este projeto é aberto a contribuições. Se você deseja melhorar ou adicionar 
 
 ## Links
 
-    - [Documentação do MongoDB(https://docs.mongodb.com/)
-    - [Documentação do Google Cloud Platform](https://cloud.google.com/docs)
-    - [Documentação do Pandas](https://pandas.pydata.org/docs/)
-    - [Documentação do PySpark](Pipeline de Extração, Carregamento, Tratamento e Envio de Dados de Marketing)
+- [Documentação do MongoDB](https://docs.mongodb.com/)
+- [Documentação do Google Cloud Platform](https://cloud.google.com/docs)
+- [Documentação do Pandas](https://pandas.pydata.org/docs/)
+- [Documentação do PySpark](https://spark.apache.org/docs/latest/api/python/)
